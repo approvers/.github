@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-[![logo](/profile/image/logo.png)](https://approvers.dev/)
+[![logo](/profile/image/cover.png)](https://approvers.dev/)
 
 </div>
 
