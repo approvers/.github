@@ -14,10 +14,21 @@
 
 [他にも知りたい!](https://twitter.com/search?q=%23%E9%99%90%E7%95%8C%E9%96%8B%E7%99%BA%E9%AF%96&src=typed_query)
 
+----
+
+[公式ホームページ](https://approvers.dev/)
+
+[メンバーリスト](https://approvers.dev/member)
+
+[GitHub](https://github.com/approvers)
+
+[Twitter](https://twitter.com/UFIApprovers)
+
+[YouTube](https://www.youtube.com/channel/UCUtr3DOhkcuunsHrAJyWylA)
+
+[Wiki](https://wikiwiki.jp/approvers/)
+
+[Qiita](https://qiita.com/organizations/approvers)
+
+
 </div>
-
----
-
-- [公式 Twitter](https://twitter.com/UFIApprovers)
-- [公式 YouTube チャンネル](https://www.youtube.com/channel/UCUtr3DOhkcuunsHrAJyWylA)
-- [Qiita](https://qiita.com/organizations/approvers)
