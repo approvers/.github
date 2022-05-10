@@ -26,5 +26,4 @@
 
 [Qiita](https://qiita.com/organizations/approvers)
 
-
 </div>
