@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-[![logo](/profile/image/cover.png)](https://approvers.dev/)
+[![限界開発鯖のロゴ](/profile/image/cover.png)](https://approvers.dev/)
 
 **高専生を中心に限界になった人々が限界状態で開発を行う Discord 鯖です。**
 
