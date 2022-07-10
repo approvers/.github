@@ -1,8 +1,4 @@
-<div style="text-align: center;">
-
 [![logo](/profile/image/logo.png)](https://approvers.dev/)
-
-</div>
 
 # †限界開発鯖† / Over Limit Development
 
